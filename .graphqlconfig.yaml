@@ -1,0 +1,6 @@
+projects:
+  gatsby-tutorial:
+    schemaPath: schema.graphql
+    extensions:
+      endpoints:
+        default: 'http://localhost:8000/___graphql'
